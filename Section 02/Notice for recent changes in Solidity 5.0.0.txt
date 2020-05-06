@@ -1,0 +1,17 @@
+A Notice for recent changes in Solidity 5.0.0
+Hi there!
+
+
+
+There were some recent changes in Solidity and Remix. The community has released version 5.0.0 of Solidity, but it doesn't seem like it's working quite well yet. (Date: Nov 16, 2018).
+
+If you run into problems, try to change the compiler version or just click the link below and it should auto-select the right compiler. This way you can run smoothly through the labs in this course.
+
+http://remix.ethereum.org/#optimize=false&version=soljson-v0.4.25+commit.59dbf8f1.js
+
+Check if the right compiler version is selected:
+
+
+Regards,
+
+Thomas
